@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chirag-9121
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
