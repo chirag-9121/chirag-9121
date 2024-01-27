@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chirag-9121
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data analytics
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chirag-gupta-359593218/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chirag9121/)
